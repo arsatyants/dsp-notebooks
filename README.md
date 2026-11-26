@@ -4,6 +4,14 @@ Physics-first explainers of wireless signal processing, written as Jupyter noteb
 
 Every notebook comes in two versions with identical code: English (`*_en.ipynb`) and Russian (`*_sim.ipynb`).
 
+## At a glance
+
+![How radio beats the noise: CDMA, LDPC, LTE, LoRa](assets/comparison_en.png)
+
+![How radio beats Doppler: OFDM, OCDM, OTFS, Zak-OTFS, AFDM, OTSM/ODDM](assets/doppler_en.png)
+
+Russian versions: [comparison_ru.png](assets/comparison_ru.png) · [doppler_ru.png](assets/doppler_ru.png). Regenerate with `python tools/infographic.py <ru|en> [classic|doppler]`.
+
 ## Notebooks
 
 | Notebook | Topic | What you'll see |
